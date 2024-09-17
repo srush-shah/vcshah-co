@@ -1,0 +1,45 @@
+.footer{
+    background: url('footer2.avif') ;
+    background-repeat: no-repeat;
+    background-size: cover;
+  width: 100%;
+  height: 190vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.footerDetail{
+    background-color: #ffffff;
+    display: flex;
+    flex-direction: column;
+    margin-top: 8rem;
+    width: 100%;
+    height: 87vh;
+}
+
+.footerLogo{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.logoimg{
+    width: 20vw;
+    height: 35vh;
+}
+.logoimg img{
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+}
+
+.footerLogo h3{
+    margin-top: -1rem;  
+}
+.contact{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    font-weight: bold;
+}
