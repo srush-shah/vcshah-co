@@ -1,0 +1,31 @@
+.proprietorDetails{
+    background: linear-gradient(145deg, #FFD700 , #448058 );
+    margin-top: -2rem;
+    padding: 1rem 1.5rem;
+    height: 80vh;
+}
+.proprietorDetails h2{
+    font-size: 2.5rem;
+}
+.proprietorBio{
+    display: flex;
+    flex-direction: row;
+}
+.proprietorBio img{
+    height: 50vh;
+    width: 30vw;
+    border-radius: 50%;
+}
+.proprietorInfo{
+    padding: 1rem;
+}
+.proprietorInfo h3{
+    font-size: 2rem;
+}
+.seat{
+    margin-top:-1.5rem ;
+    font-size: 1.5rem;
+}
+.proprietorInfo p{
+    font-size: 1.2rem;
+}

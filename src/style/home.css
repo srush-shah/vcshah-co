@@ -1,0 +1,42 @@
+.body{
+    /* background-color: rgb(151, 116, 116); */
+    color: black;
+   
+}
+
+.logo{
+    width: 13vw;
+    height: 17vh;
+    object-fit: cover;
+    margin-left: 37rem;
+}
+
+.logo img{
+    height: 100%;
+    width: 100%;
+    object-fit: cover;
+    overflow: hidden;
+}
+.home {
+  position: relative;
+  width: 100%;
+  height: 90vh;
+}
+
+.home img{
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+
+.homeText {
+  position: absolute;
+  top: 50%;
+  left: 50%; 
+  transform: translate(-50%, -50%); 
+  color: rgb(255, 253, 253);
+  text-align: center;
+  padding: 20px;
+  border-radius: 10px;
+  text-shadow: 2px 2px 5px rgb(0, 0, 0); 
+}

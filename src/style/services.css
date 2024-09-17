@@ -1,0 +1,40 @@
+.service {
+  display: flex;
+  justify-content: flex-end; 
+  background-image: url('home2.avif');
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  height: 120vh;
+}
+.list {
+    max-width: 45vw; 
+}
+
+.serviceList{
+    padding: 0.1rem 1.5rem 0.1rem 1.5rem;
+    margin-top: 4rem;
+    background-color: #294935;
+    color: #c9a929;   
+}
+.serviceList ul {
+    list-style-type: none;
+    padding-left: 0;
+}
+.serviceList li {
+  margin-bottom: 5px;
+  font-size: 18px;
+  text-align: left;
+}
+.dash{
+    margin-left: 2rem;
+}
+ 
+.last{
+    margin-top: -1rem;
+    font-size: 1.2rem;
+    background-color: #FFD700;
+    color: #2a382f;
+    padding: 0.1rem 1.5rem 0.1rem 1.5rem;
+
+}
