@@ -1,4 +1,3 @@
-import React from 'react'
 import '../style/content.css'
 
 const Content = () => {
@@ -10,7 +9,7 @@ const Content = () => {
 
         <div className="heading">
         <h1>We ensure total satisfaction of </h1>
-        <h2>Our customer with total Marin solution</h2>
+        <h2>Our customer with total Marine solutions</h2>
         </div>
 
         <div className="history">
